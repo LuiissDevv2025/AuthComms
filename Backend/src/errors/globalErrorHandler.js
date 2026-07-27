@@ -1,0 +1,1 @@
+//Handles all the error throw on our project
