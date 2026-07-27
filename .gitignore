@@ -1,0 +1,10 @@
+# Dependency directories (matches node_modules at any depth)
+node_modules/
+
+# Environment configurations (matches secrets at any depth)
+.env
+.env.*
+
+# OS Metadata
+.DS_Store
+Thumbs.db
